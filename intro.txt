@@ -1,2 +1,1 @@
  The new pet project
-This is a new pet-project
